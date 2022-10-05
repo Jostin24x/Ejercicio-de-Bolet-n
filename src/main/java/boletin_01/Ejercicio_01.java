@@ -1,6 +1,5 @@
 package boletin_01;
 import java.util.Scanner;
-
 /**
  *
  * @author ACER
